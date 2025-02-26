@@ -1,4 +1,3 @@
-```markdown
 # Red Line Tracking for Autonomous Underwater Vehicle (AUV)
 
 This project implements a real-time red line tracking system for an Autonomous Underwater Vehicle (AUV) using OpenCV and Python. The system processes video frames, detects red lines, calculates their center positions, and generates control commands for the AUV based on the detected position.
